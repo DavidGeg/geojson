@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {"monster_territory": "Godzilla"
+				,"monster_message": "Beware! Godzilla Territory!"},
+  "geometry": {
+	  "type": "Polygon",
+	  "coordinates": [[
+		  [-86.025009, 39.955313],
+		  [-86.028442, 39.951991],
+		  [-86.024923, 39.947747],
+		  [-86.022906, 39.947582],
+		  [-86.018443, 39.953931],
+		  [-86.025009, 39.955313]
+	  ]]
+  }
+}, {
+  "type": "Feature",
+  "properties": {"monster_territory": "Rodan"
+				,"monster_message": "Rodan has eaten quite a few folks here."},
+  "geometry": {
+	  "type": "Polygon",
+	  "coordinates": [[
+		  [-86.018658, 39.953175],
+		  [-86.016169, 39.956201],
+		  [-86.010075, 39.956103],
+		  [-86.014237, 39.949721],
+		  [-86.018658, 39.953175]
+	  ]]
+  }
+}
